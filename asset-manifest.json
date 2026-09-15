@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4cfb7cd2.css",
-    "main.js": "/static/js/main.99de6fa9.js",
-    "static/js/453.47185978.chunk.js": "/static/js/453.47185978.chunk.js",
-    "static/media/pexels-david-bartus-43782-963278.jpg": "/static/media/pexels-david-bartus-43782-963278.98014725353b0e2bc5e8.jpg",
-    "static/media/wind-breaker-wind-breaker-anime.gif": "/static/media/wind-breaker-wind-breaker-anime.aa81c7a73e02fdc54d73.gif",
-    "static/media/coffee.gif": "/static/media/coffee.03193e8572f690d469be.gif",
-    "static/media/Untitled-removebg-preview.png": "/static/media/Untitled-removebg-preview.c0745bad6b65bd2211d4.png",
+    "main.css": "/static/css/main.b3f582aa.css",
+    "main.js": "/static/js/main.2a2bf428.js",
+    "static/js/317.837bcf4c.chunk.js": "/static/js/317.837bcf4c.chunk.js",
+    "static/media/sleeping_cat.gif": "/static/media/sleeping_cat.ccd315a1e80f5a1266c9.gif",
+    "static/media/LQ_waddling_goose.gif": "/static/media/LQ_waddling_goose.dc556b76ceffab6860e1.gif",
+    "static/media/loading.gif": "/static/media/loading.9e3788cdf0ab05bacde6.gif",
     "index.html": "/index.html",
-    "static/media/mark-github-24.svg": "/static/media/mark-github-24.67d37eb5d1a5612293962f30d02b87de.svg",
-    "static/media/device-desktop-24.svg": "/static/media/device-desktop-24.25488575280cda31b5667c076f935e8d.svg",
-    "main.4cfb7cd2.css.map": "/static/css/main.4cfb7cd2.css.map",
-    "main.99de6fa9.js.map": "/static/js/main.99de6fa9.js.map",
-    "453.47185978.chunk.js.map": "/static/js/453.47185978.chunk.js.map"
+    "main.b3f582aa.css.map": "/static/css/main.b3f582aa.css.map",
+    "main.2a2bf428.js.map": "/static/js/main.2a2bf428.js.map",
+    "317.837bcf4c.chunk.js.map": "/static/js/317.837bcf4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cfb7cd2.css",
-    "static/js/main.99de6fa9.js"
+    "static/css/main.b3f582aa.css",
+    "static/js/main.2a2bf428.js"
   ]
 }
